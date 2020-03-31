@@ -1,0 +1,4 @@
+aplikasi ini dibuat untuk membantu orang orang yang ingin meminjam buku menjadi lebih mudah.
+banyak yang enggan datang ke perpustakaan untuk meminjam buku karena mereka takut ketika mereka datang kesana ternyata buku yang mereka cari tidak ada.
+dengan aplikasi ini, kini orang dapat melihat ketersediaan buku atapun membooking untuk meminjam buku via online.
+pengguna hanya perlu mendaftar menjadi anggota perpustakaan untuk dapat melihat ketersediaan buku atau menggunakan fitur peminjaman online.
